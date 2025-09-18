@@ -22,7 +22,7 @@ export default function AboutPage() {
 
         {/* Info */}
         <div className="space-y-4 text-lg w-full">
-          <p><span className="font-semibold">Nama:</span> Alya Nasmi Rahma P</p>
+          <p><span className="font-semibold">Nama:</span> Alya Nasmi Rahma Putri</p>
           <p><span className="font-semibold">Kelas:</span> XI RPL B</p>
           <p><span className="font-semibold">Jurusan:</span> Rekayasa Perangkat Lunak</p>
           <p>
