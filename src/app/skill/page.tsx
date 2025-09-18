@@ -19,7 +19,7 @@ export default function SkillsPage() {
       }}
     >
       <div className="bg-white/70 dark:bg-gray-900/70 p-8 rounded-2xl shadow-lg w-full max-w-3xl text-center">
-        <h1 className="text-3xl font-bold mb-8">Skill</h1>
+        <h1 className="text-3xl font-bold mb-8">My Skill</h1>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-8 justify-items-center">
           {skills.map((skill) => (
             <div key={skill.name} className="flex flex-col items-center gap-2">
