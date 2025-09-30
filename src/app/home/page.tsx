@@ -18,7 +18,7 @@ export default function Home() {
       {/* Photo and Name */}
       <section className="flex flex-col items-center gap-6">
         <Image
-          src="/diriku.jpg" // Ganti dengan path foto Anda
+          src="/diriku.jpg" 
           alt="Alyaaa"
           width={180}
           height={180}
